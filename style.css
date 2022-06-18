@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copyright {
+    text-align: center;
+    
+}
